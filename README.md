@@ -4,13 +4,21 @@
 
 AI and software engineer with an MSc in Artificial Intelligence from the University of York. I build operational data pipelines, bilingual (Arabic/English) applications, and AI-assisted tools — most recently supporting Hajj operations, where systems have to work at real scale under real pressure.
 
+## Technical focus
+
+- Explainable AI and deterministic decision-support systems
+- Production data pipelines, APIs, and relational data modelling
+- Arabic-first and bilingual full-stack applications
+- Python, TypeScript, FastAPI, Next.js, PostgreSQL, and SQLite
+
 ## Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Saudi Job Copilot](https://github.com/DarwishAlmahfouz/saudi-job-copilot)** | Bilingual job-discovery and scoring tool with explainable eight-dimension matching, an offline synthetic demo, and a human review workflow. Validated with 195 automated tests and 91.81% branch coverage. | Python, FastAPI, Pydantic, PostgreSQL/SQLite |
+| **[Misha](https://github.com/DarwishAlmahfouz/misha)** | Arabic-first Saudi owner-association management demo with weighted voting, maintenance, occupancy, and document workflows. Includes a [live RTL demo](https://misha-self.vercel.app) and 25 domain tests. | Next.js, TypeScript, React |
 | **[BusRecPy](https://github.com/DarwishAlmahfouz/busrecpy)** | AVL data-collection pipeline that processed 24,403 vehicle plates across 1,353 sweeps during Hajj 2026, storing 28.6M GPS and vehicle-status records for operational analysis. *Source private (contract work) — architecture documented.* | Python, PostgreSQL |
 | **[Maktab Al-Muhami](https://github.com/DarwishAlmahfouz/maktab-almuhami)** | Arabic-RTL law-office management MVP: role-based access, case and report workflows, Hijri/Gregorian calendars, and AI-assisted drafting and document review. *Demonstration MVP — showcase repo.* | Next.js, TypeScript, Supabase, Anthropic API |
-| **[Saudi Job Copilot](https://github.com/DarwishAlmahfouz/saudi-job-copilot)** | Bilingual job-discovery and scoring tool with explainable eight-dimension matching. Validated with 190 automated tests and 90.53% branch coverage. | Python, FastAPI, Pydantic, PostgreSQL/SQLite |
 
 ## Background
 
